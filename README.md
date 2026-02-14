@@ -1,4 +1,4 @@
-# claude-skills-toolkit
+# Claude Skills Toolkit
 
 A comprehensive toolkit for building, validating, and distributing skills for Claude Code and Claude.ai.
 
