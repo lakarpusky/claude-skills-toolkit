@@ -152,9 +152,9 @@ Copy skill folders to your Claude Code skills directory:
 ## Documentation
 
 - **[SKILLS-KNOWLEDGE-BASE.md](./SKILLS-KNOWLEDGE-BASE.md)** - Complete guide covering everything from the official Anthropic documentation
-- **[references/patterns.md](./references/patterns.md)** - 7 implementation patterns (sequential workflow, multi-MCP, iterative refinement, etc.)
-- **[references/yaml-frontmatter.md](./references/yaml-frontmatter.md)** - Complete YAML field reference
-- **[references/troubleshooting.md](./references/troubleshooting.md)** - Quick fixes for common issues
+- **[r/patterns.md](./references/patterns.md)** - 7 implementation patterns (sequential workflow, multi-MCP, iterative refinement, etc.)
+- **[r/yaml-frontmatter.md](./references/yaml-frontmatter.md)** - Complete YAML field reference
+- **[r/troubleshooting.md](./references/troubleshooting.md)** - Quick fixes for common issues
 
 ## Skill Categories
 
